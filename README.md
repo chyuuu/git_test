@@ -1,0 +1,1 @@
+This is Bernice's first git project!
